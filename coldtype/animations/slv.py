@@ -24,6 +24,8 @@ cP = hsl(0.83333333333,1,0.50)
 dG = hsl(0.2, 0.25, 0.392)
 # Dark red
 dR = hsl(0, 0.708, 0.529)
+# Dark red
+dR2 = hsl(0.0194, 0.647, 0.50)
 # Dark brown1
 dB1 = hsl(0.0583333333, 0.437, 0.687)
 # Dark brown2
@@ -61,15 +63,21 @@ lY3 = hsl(0.166666667,0.231,0.873)
 
 # 900, 600, 500/105, 420/97, 400, 350/90, 450, 290/70, 250/80, 180
 
-# Social
+# Social small
+# 140 / 50
+
+# Social medium
+# 165 / 50
+
+# Social larger
 # 365 / 50
 
-bgC = cP
-fgC = cB
-fSize = 365
+bgC = dPu3
+fgC = cR
+fSize = 165
 fTrack = 50
-words = "Karl"
-words2 = "IS UP\nTO"
+words = "slv.vic.gov.au"
+words2 = "MELBOURNE\nFRINGE\nFESTIVAL"
 
 
 @animation((1080, 1080),
