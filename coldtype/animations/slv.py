@@ -1,7 +1,7 @@
 from this import d
 from coldtype import *
 
-fnt = Font.Cacheable("~/py/Fonts/OldschoolGroteskVarTrial.ttf")
+fnt = Font.Cacheable("./Fonts/OldschoolGroteskVar.ttf")
 
 # Bright colours
 
